@@ -1,6 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	background: #D7FFCF;
+	background: rgb(218, 207, 207);
 }
 
 
@@ -14,15 +14,72 @@ body {
 }
 
 #survey{
-    color: red;
+    font-size: 80px;
     text-align: center;
+    font-family: 'Righteous', cursive;
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 2px #ff0000;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 2px #ff0000;
+
 }
 
 #name{
 
     color:red;
 }
-.container{
 
-    color:purple;
+.jumbotron {
+    background-image: url("/assets/celebbanner.png");
+    background-size: cover;
+    height: 350px;
+  }
+
+#button{
+    margin-left: 450px;
+    background-color: pink;
+    text-align: center;
+    margin-top: 250px;
+}
+
+#submit{
+    background-color: pink;
+    width:500px;
+    margin-left: 320px;
+
+}
+h3 {
+
+    text-align: center;
+}
+.chosen-select{
+    text-align: center;
+}
+
+h4{
+
+    text-align: center;   
+}
+
+.answer {
+    display:flex;
+    width: 100%;
+    justify-content: center;    
+}
+#name{
+    width: 300px;
+    justify-content: center;
+    margin-left:420px;
+    
+}
+#photo{
+    width: 300px;
+    justify-content: center;
+    margin-left:420px;
 }
