@@ -1,4 +1,4 @@
-# Friend_Finder[Application live link - Click here](https://friendfindercelebs.herokuapp.com/)
+# Friend_Finder [Application live link - Click here](https://friendfindercelebs.herokuapp.com/)
 
 
 ![enter image description here](https://lh3.googleusercontent.com/1sdb6T7M4v2EF3H0l1yvqe8OVfwLD9TPrvfuiDkI4L7w0IKFBkWIAotspZoh8j2CWMp3pyOTUzvQ)
